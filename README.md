@@ -10,7 +10,7 @@ Currently, I'm expanding my expertise into **Python, Data Science, Generative AI
 
 ## 🚀 About Me
 
-- 💼 Frontend Engineer with 4+ years of professional experience
+- 💼 Frontend Engineer
 - 🐍 Currently learning Python Development
 - 📊 Studying Data Science & Analytics
 - 🤖 Exploring Generative AI & Agentic AI
@@ -84,60 +84,13 @@ Currently, I'm expanding my expertise into **Python, Data Science, Generative AI
 
 ---
 
-# 💼 Professional Experience
-
-- Learning Management Systems (LMS)
-- HR Management Systems
-- E-Commerce Platforms
-- REST API Integration
-- Microservices
-- Responsive Web Applications
-- Performance Optimization
-- Component Architecture
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Become a Python Developer
-- ✅ Build AI-powered applications
-- 🚀 Build Agentic AI systems
-- 🚀 Contribute to Open Source
-- 🚀 Publish technical articles
-- 🚀 Work as an AI Engineer
-
----
-
-# 📌 Featured Projects
-
-Coming Soon...
-
-- 🤖 AI Resume Analyzer
-- 📊 AI Data Analytics Dashboard
-- 🧠 AI Research Assistant
-- 📄 Document Chatbot (RAG)
-- 💬 AI Customer Support Agent
-- 📚 AI Learning Assistant
-
----
-
-# 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark)
-
----
-
 # 📫 Connect With Me
 
 📧 Email: thinzarwinluck.dev@gmail.com
 
 🌐 Portfolio: https://thinzarwinluck-dev.web.app
 
-💼 LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+💼 LinkedIn: https://linkedin.com/in/thinzarwinluck
 
 ---
 
