@@ -52,9 +52,7 @@ Currently, I'm expanding my expertise into **Python, Data Science, Generative AI
 ### Data Science
 
 - Pandas
-- NumPy
 - Matplotlib
-- Scikit-learn
 - Jupyter Notebook
 
 ---
@@ -76,11 +74,8 @@ Currently, I'm expanding my expertise into **Python, Data Science, Generative AI
 - Python Development
 - Data Science
 - Machine Learning
-- Azure Cloud
 - Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
 - Agentic AI
-- LangGraph
 
 ---
 
