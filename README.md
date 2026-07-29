@@ -12,7 +12,6 @@ Currently, I'm expanding my expertise into **Python, Data Science, Generative AI
 - 🐍 Currently learning Python Development
 - 📊 Studying Data Science & Analytics
 - 🤖 Exploring Generative AI & Agentic AI
-- ☁️ Learning Azure Cloud
 - 🌏 Interested in AI Engineering opportunities worldwide
 
 ---
