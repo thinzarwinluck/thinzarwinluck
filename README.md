@@ -1,7 +1,5 @@
 # Hi 👋, I'm Thinzar Winluck
 
-### Frontend Engineer → Agentic AI Engineer
-
 I'm a software engineer with experience building scalable web applications using **React.js, Next.js, Vue.js, and TypeScript**.
 
 Currently, I'm expanding my expertise into **Python, Data Science, Generative AI, and Agentic AI**, with the goal of building intelligent applications that combine modern software engineering with AI.
