@@ -1,4 +1,4 @@
-# Hi 👋, I'm Thinzar Winluck
+# Hi 👋, I'm Thinzar Winluck ( Clarie )
 
 I'm a software engineer with experience building scalable web applications using **React.js, Next.js, Vue.js, and TypeScript**.
 
